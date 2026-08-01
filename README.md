@@ -13,3 +13,4 @@ This project implements a complete Universal Asynchronous Receiver-Transmitter (
 
 
 ## RTL Schematic
+Screenshot 2026-08-02 012436.png
