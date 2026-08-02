@@ -10,7 +10,8 @@ This project implements a complete Universal Asynchronous Receiver-Transmitter (
 * **Loopback Testbench:** Verified using a self-checking testbench where the TX pin is physically wired to the RX pin. 
 
 ## Simulation Results
-
+<img width="1619" height="1019" alt="Screenshot 2026-08-02 010924" src="https://github.com/user-attachments/assets/4a75708b-be05-4165-b7dc-9b47d6a902b6" />
 
 ## RTL Schematic
-Screenshot 2026-08-02 012436.png
+
+<img width="1576" height="933" alt="Screenshot 2026-08-02 012436" src="https://github.com/user-attachments/assets/b61c43ed-e305-4e2e-93bf-8da843661906" />
